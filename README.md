@@ -3,6 +3,7 @@
 
 ### Good collections of AI papers 
 
+- https://huggingface.co/collections/Presidentlin/deepseek-papers-674c536aa6acddd9bc98c2ac
 
 ### Good places to find AI papers 
 
