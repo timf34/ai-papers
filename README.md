@@ -1,7 +1,3 @@
-Test
-
-this
-
 # AI Papers
 
 
